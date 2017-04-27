@@ -1,0 +1,23 @@
+{
+  "name": "olaola",
+  "version": "1.0.0",
+  "description": "olaola",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabao/ola-ola.git"
+  },
+  "author": "cabao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabao/ola-ola/issues"
+  },
+  "homepage": "https://github.com/cabao/ola-ola#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "linebot": "^1.3.0"
+  }
+}
